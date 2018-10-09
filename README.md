@@ -4,11 +4,12 @@ Merve Buacan
 7329163
 
 
-Funktionen des Qt Game:
+Funktionen des Qt Game: 
 
-Ein Button „Start“ bzw. „Pause“ startet bzw. stoppt das Spiel. Vorzugsweise wechselt ein Button die Beschriftung.
+Ein Button „Start“ bzw. „Pause“ startet bzw. stoppt das Spiel.
 
-Am unteren Rand einer Zeichenfläche (~Spielfeld) lässt sich – mit Hilfe der Pfeiltasten.
+Am unteren Rand einer Zeichenfläche (~Spielfeld) lässt sich das Spielerobjekt nach rechts/links bewegen
+– mit Hilfe der Pfeiltasten.
 
 Ein Button „Speichern“ sichert den Zustand des Spiels und seiner Objekte in ein „Savegame“.
 
