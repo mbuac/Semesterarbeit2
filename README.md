@@ -25,3 +25,4 @@ Funktionen des Qt Game:
 
 7. Das Spiel generiert Objekte, die das Spielfeld am oberen Rand betreten und sich zum unteren Rand bewegen. Wenn Sie diesen überschreiten, werden die Objekte aus dem Spiel entfernt. (ggf. Stufe II beachten!)
 
+8.Health Anzeige...
