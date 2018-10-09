@@ -28,3 +28,7 @@ Funktionen des Qt Game:
 8.Health Anzeige...
 
 9. Das Spiel generiert zufällige, unterschiedliche Objekte, die das Spielfeld am oberen Rand betreten und sich zum unteren Rand bewegen. Die unterschiedlichen Objekte werden durch verschiedene Konfigurationen einer Klasse erzeugt. Sie unterscheiden sich in den Parametern Geschwindigkeit, Form und Farbe. Gleiches Aussehen (Form & Farbe) bedeutet gleiches Verhalten (Bewegung).
+
+
+
+Eingereicht wird das heruntergeladene Archiv des repositories auf GitHub.com. Bei der Einreichung muss die URL zum repository auf GitHub.com angegeben werden.
